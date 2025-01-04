@@ -1,5 +1,5 @@
 .direnv/
 data/*
 tags/*
-!data/json_files_here
-!tags/tags_output_here
+pngs/*
+!data/data_here

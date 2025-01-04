@@ -26,6 +26,8 @@
             (python.withPackages (python-pkgs: with python-pkgs; [
               pip
               venvShellHook
+
+              pillow
             ]))
           ];
 
